@@ -4,7 +4,7 @@
 # SMS2Email
 
 - Flutter Mobile App That is designed to Pack ALL of the incoming OTP SMS Messages into an Email then Send it to An Email Address Provided By YOU!
-- BUT IT IS STILL TOTALLY IN DEVELOPMENT!
+- BUT IT IS STILL TOTALLY IN DEVELOPMENT PHASE!
 
 
 ![1E1uF8pH1ewesEvfEOuX0RQ](https://github.com/user-attachments/assets/910ca1b3-02f8-4ae5-9025-64799e55df34)
